@@ -1,5 +1,9 @@
 # news
 <html>
+    <head>
+        <title>fireworks</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
     <body>
         <header>
             <img id ="logo" src="/uploads/2020/12/logo_0_1607675596.svg" height="40px"/>
